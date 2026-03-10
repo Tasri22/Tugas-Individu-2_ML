@@ -1,4 +1,3 @@
-
 # Basic Python for Machine Learning
 ### Praktik Dasar Python – Computer Vision
 

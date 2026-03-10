@@ -3,7 +3,7 @@
 ### Praktik Dasar Python – Computer Vision
 
 
-## 📌 Deskripsi Project
+## 📌 Deskripsi
 
 Project ini merupakan praktik dasar pemrograman Python yang digunakan sebagai pengenalan awal sebelum mempelajari **Machine Learning** dan **Computer Vision**.
 

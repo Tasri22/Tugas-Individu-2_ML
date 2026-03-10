@@ -114,10 +114,10 @@ Basic-Python-ML
 ├── Basic_Python.ipynb
 ├── README.md
 └── images
-    ├── notebook.png
-    ├── formatting.png
-    ├── aritmatika.png
-    └── operator.png
+    ├── Contoh penggunaan string formatting.png
+    ├── Membership operator.png
+    ├── Penggunaan library math.png
+    └── Operasi aritmatika Python.png
 
 📊 Hasil dan Pembahasan
 
